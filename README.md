@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Me-Phew
+- 👀 I’m interested in programming, aviation, space, engineering, football and many other greate things!
+- 🌱 I’m currently learning Python, Java etc.
+- 📫 You can reach me on Discord MePhew#2137 or via an e-mail basmateusz@wp.pl
