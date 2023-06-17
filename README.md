@@ -80,8 +80,6 @@
 
 - 💬 Ask me about **FastAPI, Vue.js**
 
-- 📫 How to reach me **basmateusz@wp.pl**
-
 - 👀 **Aside from programming I'm also interested in aviation, space, engineering, football and many other great things!**
 
 ###
