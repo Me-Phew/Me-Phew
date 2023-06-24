@@ -76,7 +76,7 @@
 
 - 🔭 I’m currently working on [a photography portfolio](https://github.com/Me-Phew/pietrucha-portfolio-web)
 
-- 🌱 I’m currently learning **ThreeJS and gsap**
+- 🌱 I’m currently learning **Three.js and GSAP**
 
 - 💬 Ask me about **FastAPI, Vue.js**
 
