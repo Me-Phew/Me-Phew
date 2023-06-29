@@ -73,6 +73,9 @@
 <img align="right" height="300" src="https://raw.githubusercontent.com/Me-Phew/Me-Phew/main/starship-300x420.jpg"  />
 
 ###
+ My personal projects: [https://github.com/Me-Phew?tab=repositories](https://github.com/Me-Phew?tab=repositories)
+
+ My collaborative projects: [https://github.com/MePhew-GonteQ-Industries](https://github.com/orgs/MePhew-GonteQ-Industries/repositories)
 
 - 🔭 I’m currently working on [a photography portfolio](https://github.com/Me-Phew/pietrucha-portfolio-web)
 
