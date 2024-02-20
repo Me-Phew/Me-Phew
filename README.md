@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:basmateusz@wp.pl">
-    <img src="https://camo.githubusercontent.com/408b312448c8ae9a0c926f3b0246ef21b477a09293c1fdf0b3109bfef85ebe42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d7465616c3f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6963726f736f6674204f75746c6f6f6b266c6f676f436f6c6f723d7768697465" height="35" alt="Email Badge" data-canonical-src="https://img.shields.io/badge/Email-teal?style=for-the-badge&amp;logo=Microsoft Outlook&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Email-teal?style=for-the-badge&amp;logo=Microsoft Outlook&amp;logoColor=white" height="35" alt="Email Badge" data-canonical-src="https://img.shields.io/badge/Email-teal?style=for-the-badge&amp;logo=Microsoft Outlook&amp;logoColor=white" style="max-width: 100%;">
   </a>
 </div>
 
